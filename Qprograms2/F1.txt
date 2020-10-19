@@ -1,0 +1,7 @@
+void main() {<br>
+　int V1 = 261;<br>
+<br>
+　char V2 = V1;<br>
+<br>
+　printf("%d\n", V2);<br>
+}

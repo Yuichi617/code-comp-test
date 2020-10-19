@@ -1,0 +1,12 @@
+void main() {<br>
+　int V1;<br>
+　int V2;<br>
+　int V3 = 0;<br>
+　int V4 = 1;<br>
+<br>
+　for(V1=0;V1<5;V1++){<br>
+　　for(V2=0;V2<3;V2++) V3++;V4++;<br>
+　}<br>
+<br>
+　printf("%d, %d\n", V3, V4);<br>
+}

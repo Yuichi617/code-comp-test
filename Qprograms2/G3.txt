@@ -1,0 +1,12 @@
+void main(){<br>
+　int V1 = 4;<br>
+　int V2 = 2;<br>
+　int V3 = 2;<br>
+　int V4 = 2;<br>
+<br>
+　if((V1 % V2) || (V3 % V4) || V1){<br>
+　　printf("true\n");<br>
+　}else{<br>
+　　printf("false\n");<br>
+　}<br>
+}

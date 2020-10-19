@@ -1,0 +1,6 @@
+void main() {<br>
+　int V1 = 3;<br>
+　int V2 = ((V1=V1-1,V1=V1-1),(V1=V1+1,V1=V1*2));<br>
+<br>
+　printf("%d, %d\n", V1, V2);<br>
+}

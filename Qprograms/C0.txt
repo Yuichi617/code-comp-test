@@ -1,0 +1,10 @@
+void main(){<br>
+　int V1 = 1;<br>
+　int V2 = 2;<br>
+<br>
+　if(V1 = V2){<br>
+　　printf("true ");<br>
+　}else{<br>
+　　printf("false ");<br>
+　}<br>
+}

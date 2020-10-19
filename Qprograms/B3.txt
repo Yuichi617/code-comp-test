@@ -1,0 +1,9 @@
+void main(){<br>
+　int V1 = 1;<br>
+　int V2 = 0;<br>
+<br>
+if(V1 || V2 || V1 && V2){<br>
+　printf("true\n");<br>
+}else{<br>
+　printf("false\n");<br>
+}

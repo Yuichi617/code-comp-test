@@ -1,0 +1,9 @@
+#define M1 4 + 2<br>
+#define M2 10 - M1<br>
+<br>
+void main(){<br>
+　int V1 = M1 * 2;<br>
+　int V2 = 25 - V1 - M2;<br>
+<br>
+　printf("%d\n",V2);<br>
+}

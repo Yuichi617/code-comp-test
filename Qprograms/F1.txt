@@ -1,0 +1,10 @@
+void main(){<br>
+　int V1 = 2;<br>
+　int V2 = 3;<br>
+　int V5;<br>
+　float V3 = 3.1;<br>
+　float V4 = V1 * V3;<br>
+　V5 = V2 * V4;<br>
+<br>
+　printf("%.1f, %d\n",V4,V5);<br>
+}

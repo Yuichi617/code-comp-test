@@ -1,0 +1,7 @@
+void main() {<br>
+　if ((2 && 0) || 5) {<br>
+　　printf("true");<br>
+　 } else {<br>
+　　printf("false");<br>
+　}<br>
+}

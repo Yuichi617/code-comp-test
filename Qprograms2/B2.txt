@@ -1,0 +1,7 @@
+void main(){<br>
+　if(1 || (0 || 1) && 0){<br>
+　　printf("true\n");<br>
+　}else{<br>
+　　printf("false\n");<br>
+　}<br>
+}

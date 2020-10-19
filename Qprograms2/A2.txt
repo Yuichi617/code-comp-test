@@ -1,0 +1,6 @@
+void main(){<br>
+　int V1 = 6;<br>
+　int V2 = 3 + V1++;<br>
+　int V3 = V1 + V2--;<br>
+　printf("%d\n",V3);<br>
+}

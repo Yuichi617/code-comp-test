@@ -1,0 +1,11 @@
+#define M1 7 - 1<br>
+#define M2 2 + 6<br>
+<br>
+void main(){<br>
+　int V1;<br>
+　int V2;<br>
+　V1 = M1;<br>
+　V2 = M1 * M2 - V1;<br>
+<br>
+　printf("%d\n",V2);<br>
+}

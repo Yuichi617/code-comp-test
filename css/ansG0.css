@@ -1,0 +1,73 @@
+.site-box{
+    width : 750px;
+    border: 1px solid #000000;
+    margin : 5px auto
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.main {
+  padding:20px;
+  font-size: 18px;
+}
+
+.name{
+    font-size:15px;
+}
+
+.Q_career{
+    font-size:17px;
+}
+
+.program{
+    float: left;
+}
+
+.Ptext{
+  padding: 10px;
+  background:#f7f7f7;
+  border-radius: 10px;
+  border: 3px dotted #333333;
+  width:300px;
+}
+
+.ans{
+  float: right;
+  padding-right: 280px;
+  padding-top: 285px;
+}
+
+.Commentary{
+  float: right;
+  padding: 0.2em 1em;
+  margin: 2em 0;
+  color: #474747;
+  background: whitesmoke;/*背景色*/
+  border-left: double 7px #4ec4d3;/*左線*/
+  border-right: double 7px #4ec4d3;/*右線*/
+}
+
+.Commentary p{
+  margin: 0;
+  padding: 0;
+}
+
+.buttom{
+  float: left;
+}
+
+.footer{
+  clear: both;
+   width: 750px;
+   padding-bottom: 20px;
+}

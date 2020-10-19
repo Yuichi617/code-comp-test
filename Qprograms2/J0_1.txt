@@ -1,0 +1,7 @@
+void main() {<br>
+　int V1, V2;<br>
+<br>
+　V1 = (V2 = 1, 2);<br>
+<br>
+　printf("%d, %d\n", V1, V2);<br>
+}

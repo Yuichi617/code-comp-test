@@ -1,0 +1,10 @@
+void main(){<br>
+　int V1 = 2;<br>
+<br>
+　if(V1 = 3){<br>
+　　printf("true\n");<br>
+　}else{<br>
+　　printf("false\n");<br>
+　}<br>
+<br>
+}<br>

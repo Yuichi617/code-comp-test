@@ -1,0 +1,5 @@
+void main(){<br>
+　int V1 = 2;<br>
+　int V2 = V1++;<br>
+　printf("%d\n", V2);<br>
+}

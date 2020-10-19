@@ -1,0 +1,11 @@
+void main() {<br>
+　int V1[] = {1,3,5,7,9};<br>
+　int *V2 = V1 +2;<br>
+　int V3 = 0;<br>
+　while(*V2 != 9){<br>
+　　V3++;<br>
+　　*V2++;<br>
+　}<br>
+<br>
+　printf("%d\n", V3);<br>
+}

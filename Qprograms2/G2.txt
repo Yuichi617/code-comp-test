@@ -1,0 +1,10 @@
+void main(){<br>
+　int V1 = 10;<br>
+　int V2 = 3;<br>
+　if (! (V1 % V2)){<br>
+　　printf("true\n");<br>
+　}<br>
+　else{<br>
+　　printf("false\n");<br>
+　}<br>
+}

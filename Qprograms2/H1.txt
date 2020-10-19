@@ -1,0 +1,8 @@
+void main() {<br>
+　int V1 = 4;<br>
+　int V2 = 0;<br>
+<br>
+　while (V2 < 3) V2++; V1++;<br>
+<br>
+　printf("%d, %d\n", V1, V2);<br>
+}

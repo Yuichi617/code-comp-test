@@ -1,0 +1,11 @@
+void main(){<br>
+　int V1 = 2;<br>
+　int V2 = 3;<br>
+　float V3 = 0.2f;<br>
+　float V4 = V1 * V2 * V3;<br>
+　int V5 = 2 * V1 * V4;<br>
+　float V6 = V5 * 1.7;<br>
+<br>
+/* %.fの記述によりV6は少数第一位まで出力されます */<br>
+　printf("%.1f\n",V6);<br>
+}

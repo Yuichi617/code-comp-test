@@ -1,0 +1,11 @@
+void main() {<br>
+　int V1 = 0;<br>
+　int V2 = 9;<br>
+<br>
+　while (!(V1 = 3)) {<br>
+　　V2--;<br>
+　　V1++;<br>
+　}<br>
+<br>
+　printf("%d, %d\n", V1, V2);<br>
+}

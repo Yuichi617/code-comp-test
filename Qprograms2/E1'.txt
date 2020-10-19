@@ -1,0 +1,4 @@
+void main(){<br>
+　int V1 = 2 + 1 * 4 + 3;<br>
+　printf("%d\n", V1);<br>
+}

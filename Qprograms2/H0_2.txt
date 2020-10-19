@@ -1,0 +1,7 @@
+void main() {<br>
+　int V1 = 4;<br>
+<br>
+　if (V1 == 3) V1++; V1++;<br>
+<br>
+　printf("%d\n", V1);<br>
+}

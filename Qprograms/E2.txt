@@ -1,0 +1,10 @@
+#define M1(V1,V2) V1 * V2<br>
+#define M2(V3,V4) V3 / V4<br>
+<br>
+void main(){<br>
+　int V5 = M1(1+2, 2+3);<br>
+　int V6 = M2(4+4, 2+6);<br>
+　int V7 = V5 + V6;<br>
+<br>
+　printf("%d\n",V7);<br>
+}
